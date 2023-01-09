@@ -10,6 +10,9 @@ Checks the status codes of websites (domain) and their subdomains, to see if the
 
 ## Usage 
 
+```bash 
+sudo chmod 755 ./sitestatus.sh
+```
 ```bash
 ┌─[root@kali]─[/]
 └──╼ ./domainstatuschecker.sh <domain>
