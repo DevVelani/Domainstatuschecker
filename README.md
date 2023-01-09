@@ -10,7 +10,7 @@ apt install jq
 ## Usage 
 
 ```bash 
-sudo chmod 755 ./sitestatus.sh
+sudo chmod 755 ./domainstatuschecker.sh apple.com
 ```
 ```bash
 ./domainstatuschecker.sh <domain>
