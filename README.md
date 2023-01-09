@@ -4,8 +4,7 @@ Checks the status codes of websites (domain) and their subdomains, to see if the
 ## Requirements 
 
 ```bash
-┌─[root@kali]─[/]
-└──╼ apt install jq
+apt install jq
 ```
 
 ## Usage 
@@ -14,6 +13,5 @@ Checks the status codes of websites (domain) and their subdomains, to see if the
 sudo chmod 755 ./sitestatus.sh
 ```
 ```bash
-┌─[root@kali]─[/]
-└──╼ ./domainstatuschecker.sh <domain>
+./domainstatuschecker.sh <domain>
 ```
