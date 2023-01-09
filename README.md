@@ -1,1 +1,1 @@
-# Domainstatuschecker
+# Domain Status Checker
